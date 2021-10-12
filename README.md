@@ -9,3 +9,7 @@ Short, atomic ideas for later expansion.  Longer, more well-developed thoughts a
 
 * Faceted classification:
     * Explore connection to semantic triples
+    * Algebra:
+    	* Facets as "quotients" of some overarching information structure
+* Semantic / ontological classification schemes:
+    * Store atomic relationships between concepts (triplestore)
